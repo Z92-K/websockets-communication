@@ -1,13 +1,5 @@
 import React from 'react';
 import { StyleSheet, Text, View, Button } from 'react-native';
-
-// export default function App() {
-//   return (
-//     <View style={styles.container}>
-//       <Text>Hello world!</Text>
-//     </View>
-//   );
-// }
 export default class App extends React.Component {
 
   constructor() {
